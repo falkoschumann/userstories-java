@@ -8,9 +8,9 @@ pluginManagement {
   }
 }
 
-rootProject.name = 'helloworld-root'
+rootProject.name = 'userstories-root'
 
-include 'helloworld'
-include 'helloworld-contract'
-include 'helloworld-backend'
-include 'helloworld-frontend'
+include 'userstories'
+include 'userstories-contract'
+include 'userstories-backend'
+include 'userstories-frontend'

@@ -1,6 +1,6 @@
-![Java CI](https://github.com/falkoschumann/helloworld-java/workflows/Java%20CI/badge.svg)
+![Java CI](https://github.com/falkoschumann/userstories-java/workflows/Java%20CI/badge.svg)
 
-# Hello World
+# User Stories
 
 TODO: Description
 

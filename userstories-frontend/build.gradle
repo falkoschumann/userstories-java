@@ -1,0 +1,8 @@
+plugins {
+  id 'userstories.java-library-conventions'
+  id 'userstories.java-openjfx-conventions'
+}
+
+dependencies {
+  api project(':userstories-contract')
+}
